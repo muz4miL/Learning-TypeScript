@@ -12234,18 +12234,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-plugin-typography@npm:^3.15.0":
-  version: 3.15.0
-  resolution: "gatsby-plugin-typography@npm:3.15.0"
+"gatsby-plugin-typography@npm:^5.15.0":
+  version: 5.15.0
+  resolution: "gatsby-plugin-typography@npm:5.15.0"
   dependencies:
-    "@babel/runtime": ^7.15.4
+    "@babel/runtime": ^7.20.13
   peerDependencies:
-    gatsby: ^3.0.0-next.0
-    react: ^16.9.0 || ^17.0.0
-    react-dom: ^16.9.0 || ^17.0.0
+    gatsby: ^5.0.0-next
+    react: ^18.0.0 || ^0.0.0
+    react-dom: ^18.0.0 || ^0.0.0
     react-typography: ^0.16.1 || ^1.0.0-alpha.0
     typography: ^0.16.0 || ^1.0.0-alpha.0
-  checksum: b7a16ad6001082a8df3fd0ac6894470597bcb79d9eb277057f918c9459e534b92d3b871586885b5b0b2ffc859fa5e1583a02e88ce73a79e9587a78cbd8b3621b
+  checksum: 5c7b276f1f7c44110eaf3a66e1c40d7bd56950c5c5b63988d18a11e421ac9d6fb3f924ffd1cc3d16a58556220d8932ac59fa45cad544441aec5e825756cdb592
   languageName: node
   linkType: hard
 
@@ -24727,11 +24727,11 @@ __metadata:
 
 "typescript@patch:typescript@>3#~builtin<compat/typescript>, typescript@patch:typescript@~5.8.0#~builtin<compat/typescript>":
   version: 5.8.3
-  resolution: "typescript@patch:typescript@npm%3A5.8.3#~builtin<compat/typescript>::version=5.8.3&hash=29ae49"
+  resolution: "typescript@patch:typescript@npm%3A5.8.3#~builtin<compat/typescript>::version=5.8.3&hash=5786d5"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 1b503525a88ff0ff5952e95870971c4fb2118c17364d60302c21935dedcd6c37e6a0a692f350892bafcef6f4a16d09073fe461158547978d2f16fbe4cb18581c
+  checksum: f1743b6850976b3debf7cbd53d2bc0b67e75d47eb6410db564c8bb475e92a8a48f8a3fcd14d89cf93426835281c31a8f8a94dad90be4dc899279a898532ba97f
   languageName: node
   linkType: hard
 
@@ -25820,7 +25820,7 @@ __metadata:
     gatsby-plugin-react-helmet: ^4.15.0
     gatsby-plugin-sass: ^4.15.0
     gatsby-plugin-sharp: ^3.15.0
-    gatsby-plugin-typography: ^3.15.0
+    gatsby-plugin-typography: ^5.15.0
     gatsby-remark-autolink-headers: ^4.12.0
     gatsby-remark-copy-linked-files: ^4.12.0
     gatsby-remark-custom-blocks: ^3.15.0
