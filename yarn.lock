@@ -12020,14 +12020,14 @@ __metadata:
   linkType: hard
 
 "gatsby-cypress@npm:^3.12.0":
-  version: 3.12.0
-  resolution: "gatsby-cypress@npm:3.12.0"
+  version: 3.15.0
+  resolution: "gatsby-cypress@npm:3.15.0"
   dependencies:
     "@babel/runtime": ^7.20.13
   peerDependencies:
     cypress: ^9.0.0 || ^10.0.0
     gatsby: ^5.0.0-next
-  checksum: 4ec49381350571056da7d3413023b751f51dcf553e0eeccba116174dfdc247d8af192198dbdf97aecc0232682589692a4b098eee6df23c8a51a80d07bf80af6b
+  checksum: 58b1f4b8da8001a92b8904c01e0e5344e0804be390281c1735dca915db58cb6c7fbb5db795dd81447381ca25669b80fd5212ebce5df751da2cbd88514a4e19d6
   languageName: node
   linkType: hard
 
@@ -24727,11 +24727,11 @@ __metadata:
 
 "typescript@patch:typescript@>3#~builtin<compat/typescript>, typescript@patch:typescript@~5.8.0#~builtin<compat/typescript>":
   version: 5.8.3
-  resolution: "typescript@patch:typescript@npm%3A5.8.3#~builtin<compat/typescript>::version=5.8.3&hash=29ae49"
+  resolution: "typescript@patch:typescript@npm%3A5.8.3#~builtin<compat/typescript>::version=5.8.3&hash=5786d5"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 1b503525a88ff0ff5952e95870971c4fb2118c17364d60302c21935dedcd6c37e6a0a692f350892bafcef6f4a16d09073fe461158547978d2f16fbe4cb18581c
+  checksum: f1743b6850976b3debf7cbd53d2bc0b67e75d47eb6410db564c8bb475e92a8a48f8a3fcd14d89cf93426835281c31a8f8a94dad90be4dc899279a898532ba97f
   languageName: node
   linkType: hard
 
