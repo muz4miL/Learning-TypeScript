@@ -24453,20 +24453,20 @@ __metadata:
   linkType: hard
 
 "twoslash-eslint@npm:^0.3.1":
-  version: 0.3.1
-  resolution: "twoslash-eslint@npm:0.3.1"
+  version: 0.3.4
+  resolution: "twoslash-eslint@npm:0.3.4"
   dependencies:
-    twoslash-protocol: 0.3.1
+    twoslash-protocol: 0.3.4
   peerDependencies:
     eslint: ">=8.50.0"
-  checksum: c5577b1ac9c127213bb5c9624ce510c1c8ce29c3f6ad7984002311aeb0426a5017dadef17344e2ff84fe516aa0c3b16fbafbf6760a4b2b90c590fffe2619ab63
+  checksum: 5cfcdf5645baca20d4a8ab70504d2c1da5c56abd03f3e572ad4b7ae3e4cf87a1c79653e9471a71e3ea64ac4743546a81d0bc692fb95fe11043e04b7e63c75316
   languageName: node
   linkType: hard
 
-"twoslash-protocol@npm:0.3.1":
-  version: 0.3.1
-  resolution: "twoslash-protocol@npm:0.3.1"
-  checksum: 22191a5248d86b381eab1d04489076fe898d41b49e4c5c08d39387fc98e38500bd561c614063439ad438b09f1c0e3a6edc033d2881f17bef620c2085b4188c64
+"twoslash-protocol@npm:0.3.4":
+  version: 0.3.4
+  resolution: "twoslash-protocol@npm:0.3.4"
+  checksum: eb9f71b43d97562d2b7a0877424ae2d70c51e09eeb5f986d00fd81ed936ce0883950e51d79e3df9137eecebd0b2ccdba1ed65c28d9e27fb5a1109c035e108da6
   languageName: node
   linkType: hard
 
@@ -24727,11 +24727,11 @@ __metadata:
 
 "typescript@patch:typescript@>3#~builtin<compat/typescript>, typescript@patch:typescript@~5.8.0#~builtin<compat/typescript>":
   version: 5.8.3
-  resolution: "typescript@patch:typescript@npm%3A5.8.3#~builtin<compat/typescript>::version=5.8.3&hash=29ae49"
+  resolution: "typescript@patch:typescript@npm%3A5.8.3#~builtin<compat/typescript>::version=5.8.3&hash=5786d5"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 1b503525a88ff0ff5952e95870971c4fb2118c17364d60302c21935dedcd6c37e6a0a692f350892bafcef6f4a16d09073fe461158547978d2f16fbe4cb18581c
+  checksum: f1743b6850976b3debf7cbd53d2bc0b67e75d47eb6410db564c8bb475e92a8a48f8a3fcd14d89cf93426835281c31a8f8a94dad90be4dc899279a898532ba97f
   languageName: node
   linkType: hard
 
